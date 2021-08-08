@@ -1,0 +1,214 @@
+#EXTINF:-1,Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1,5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1,Fateh TV Int.
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:-1,Canada Star TV
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:-1,GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1,TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1,Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:-1,TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1,NDA Channel
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:-1,Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1,Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1,Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1,Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title=”Hindi”,Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:-1,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1,Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1,Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Ekta TV Gurbani
+http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Global Sanjh
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Sikh Channel USA
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Punjabi Tadkaa
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1,Gurbaani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1,PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:-1,Pitaara
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 ,APNA PUNJAB
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 ,Jhanjar
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1 ,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 ,Aaho Music
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1 ,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1,PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1,Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:-1,Fateh TV
+https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
+#EXTINF:-1 ,MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTINF:-1 ,MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
+#EXTINF:-1 ,SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1 ,POP PATAKA
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
+#EXTINF:-1 ,PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 ,Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 ,SANJHA PUNJAB
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:-1 ,SARDARI TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 ,Sikh Channel
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 ,SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+#EXTINF:-1 ,Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 ,TV 100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 ,TV 16 TORONTO
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 ,Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:-1,WORLD PUNJABI TV
+http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
+#EXTINF:-1,SPARK TV
+http://skystar.livebox.co.in/skystarhls/live.m3u8
+#EXTINF:-1 group-title=”NEWS”,AAHOO TV
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1,BEATBOX TV
+http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
+#EXTINF:-1,EKTA TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8
+#EXTINF:-1,SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1,AONE TV
+http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
+#EXTINF:-1,PBN MUSIC
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:-1,B4U MASTI
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SABRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,AAHOO MUSIC
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1,TANGY PUNJABI TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1 ,PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1,GURBANI HEALING
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1,POP PATAKA
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
+#EXTINF:-1,PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1,HAMDARD TV
+http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRUCKING TV
+http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANKHILA PUNJAB
+http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1,JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,JHANJAR HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1,SHAN PUNJABI TV
+http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
+#EXTINF:-1,PUNJAB TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1,SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1,PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,SARDARI TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,TV PUNJAB
+http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TORRONTO 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,TORRONTO 16
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1,STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
+#EXTINF:-1,PUNJABI ZINDABAAD
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DESI PLUS
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1,GUBRU TV
+https://livetv.gabruu.com/live/mgabruutv.m3u8
+#EXTINF:-1,PITAARA TV
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:-1,GAUNDA PUNJAB
+http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
+#EXTINF:-1,DESI CHANNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1,PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
+#EXTINF:-1,FASTWAY TV
+http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
+#EXTINF:-1,LIFE PUNJABI
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,pitaara
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:-1,pardesi TV HD
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TANGY PUNJABI TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1,SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1,AONE TV
+http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
+#EXTINF:-1,PBN MUSIC
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
